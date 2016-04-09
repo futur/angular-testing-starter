@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - '4.0'
+before_install:
+  - 'npm install -g grunt-cli'
+install:
+  - 'npm cache clean'
+  - 'npm install'
+before_script:
+  - 'grunt test'
