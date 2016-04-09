@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/futur/angular-testing-starter.svg?branch=master)](https://travis-ci.org/futur/angular-testing-starter)
+
 AngularJS Testing Starter
 ====================
 
